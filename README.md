@@ -2,7 +2,7 @@
 
 The **ACVillagersBot** for Discord will return the animal's information when *!animal* is entered in chat, followed by their name. 
 
-**Examples:**
+**Screenshots:**
 
-![](screenshots\ex1.PNG)
-![](screenshots\ex2.PNG)
+![Screenshot 1](screenshots/ex1.PNG)
+![Screenshot 2](screenshots/ex2.PNG)
