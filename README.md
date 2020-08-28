@@ -1,4 +1,8 @@
 # AC-discord-bot
-Repository for Animal Crossing discord bot.
 
-This bot will return the animal's characteristics when their name is entered as input.
+The **ACVillagersBot** for Discord will return the animal's information when *!animal* is entered in chat, followed by their name. 
+
+**Examples:**
+
+![](screenshots\ex1.PNG)
+![](screenshots\ex2.PNG)
